@@ -119,7 +119,7 @@ const SolarFlare = () => {
       console.log('Sending data to backend...');
 
       const response = await axios.post(
-        "http://192.168.73.197:8001/predict", 
+        "https://solar-flare-api-1.onrender.com/predict", 
         formData,
         {
           headers: {
