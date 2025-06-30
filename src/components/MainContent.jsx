@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowRight, Clock } from '../../node_modules/lucide-react';
+import { ArrowRight, Clock } from 'lucide-react';
 import Dashboard from './Dashboard';
 import Timeline from './Timeline';
 

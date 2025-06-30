@@ -18,7 +18,7 @@ import {
   Menu,
   X,
   SunMedium,
-} from "../../node_modules/lucide-react";
+} from 'lucide-react';
 
 function Sidebar({ isOpen, toggleSidebar }) {
   const links = [

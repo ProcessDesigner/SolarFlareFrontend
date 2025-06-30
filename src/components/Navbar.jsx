@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Search, Bell, User } from '../../node_modules/lucide-react';
+import { Search, Bell, User } from 'lucide-react';
 
 function Navbar({ sidebarOpen }) {
   const [activeTab, setActiveTab] = useState('Home');

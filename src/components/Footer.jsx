@@ -1,5 +1,5 @@
 import React from "react";
-import { Facebook, Twitter, Instagram, Youtube } from "../../node_modules/lucide-react";
+import { Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 
 function Footer() {
   return (

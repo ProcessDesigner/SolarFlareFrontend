@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { PieChart, Pie, Cell, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
-import { Sun, Wind, Activity, Zap, AlertTriangle } from '../../node_modules/lucide-react';
+import { Sun, Wind, Activity, Zap, AlertTriangle } from 'lucide-react';
 
 const Dashboard = () => {
   const [activeTab, setActiveTab] = useState('3-Day Forecast');

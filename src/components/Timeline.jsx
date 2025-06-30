@@ -1,5 +1,5 @@
 import React from 'react';
-import { Clock } from '../../node_modules/lucide-react';
+import { Clock } from 'lucide-react';
 
 const timelineEvents = [
   {
